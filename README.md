@@ -18,12 +18,12 @@ A powerful, conversational AI chatbot inspired by ChatGPT. This project replicat
 
 🛠️ Tech Stack and Applications Used:
 
- *Next.Js
+ * Next.Js
  
- *Google AI Studio API
+ * Google AI Studio API
  
- *Gemini API
+ * Gemini API
  
- *Node.Js
+ * Node.Js
  
- *VS-Code
+ * VS-Code
